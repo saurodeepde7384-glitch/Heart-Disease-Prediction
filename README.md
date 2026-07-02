@@ -146,6 +146,6 @@ Some improvements planned for future versions include:
 
 ---
 
-## By~ Saurodeep De
+## Saurodeep De
 
 
