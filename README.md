@@ -1,6 +1,6 @@
 # Heart Disease Prediction using Logistic Regression
 
-A beginner-friendly machine learning project that predicts the likelihood of heart disease using **Logistic Regression**. This project demonstrates a complete machine learning workflow, including data exploration, preprocessing, model training, evaluation, and model serialization.
+An approachable machine learning project that uses **Logistic Regression** to forecast the risk of heart disease. A whole machine learning workflow, including data exploration, preprocessing, model training, evaluation, and serialisation, is shown in this project.
 
 > **Note:** This project was built as part of my machine learning learning journey and is intended for educational purposes.
 
