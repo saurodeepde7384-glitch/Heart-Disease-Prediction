@@ -146,6 +146,8 @@ Some improvements planned for future versions include:
 
 ---
 
-## Saurodeep De
+## License
+
+> This project is open-source and free to use.
 
 
