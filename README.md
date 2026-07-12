@@ -148,6 +148,6 @@ Some improvements planned for future versions include:
 
 ## License
 
-> This project is open-source and free to use.
+> This project is open-source and free to use (Only for Educational Purpose and is not trained on any real life data).
 
 
