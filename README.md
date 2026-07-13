@@ -44,7 +44,7 @@ The dataset contains medical attributes such as:
 * Pandas
 * Matplotlib
 * Seaborn
-* Scikit-learn
+* Scikit-Learn
 * Joblib
 
 ---
