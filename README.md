@@ -147,7 +147,7 @@ Some improvements planned for future versions include:
 ---
 
 ## Author
-*SAURODEEP DE
+* SAURODEEP DE
 
 ---
 
