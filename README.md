@@ -146,6 +146,11 @@ Some improvements planned for future versions include:
 
 ---
 
+## Author
+*SAURODEEP DE
+
+---
+
 ## License
 
 > This project is open-source and free to use (Only for Educational Purpose and is not trained on any real life data).
