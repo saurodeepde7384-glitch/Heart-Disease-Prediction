@@ -1,6 +1,9 @@
 # Heart Attack Prediction using Machine Learning
 
 A beginner-friendly Machine Learning project that predicts the likelihood of a heart attack using multiple classification algorithms. The project demonstrates an end-to-end machine learning workflow, including Exploratory Data Analysis (EDA), preprocessing with Scikit-learn Pipelines, model training, evaluation, comparison, and model serialization.
+=======
+An approachable machine learning project that uses **Logistic Regression** to forecast the risk of heart disease. A whole machine learning workflow, including data exploration, preprocessing, model training, evaluation, and serialisation, is shown in this project.
+
 
 > **Note:** This project was built as part of my machine learning learning journey and is intended for educational purposes.
 
@@ -40,7 +43,7 @@ The dataset contains the following medical attributes:
 * NumPy
 * Matplotlib
 * Seaborn
-* Scikit-learn
+* Scikit-Learn
 * Joblib
 
 ---
@@ -193,6 +196,14 @@ Some potential enhancements include:
 ---
 
 ## Author
+=======
+* SAURODEEP DE
+
+---
+
+## License
+
+> This project is open-source and free to use (Only for Educational Purpose and is not trained on any real life data).
 
 **Saurodeep De**
 
