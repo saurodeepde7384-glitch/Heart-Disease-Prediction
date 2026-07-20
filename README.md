@@ -207,7 +207,7 @@ Some potential enhancements include:
 * Cross-validation
 * Feature engineering
 * Model explainability using SHAP or LIME
-* Streamlit web application
+* Streamlit or Fast API web application
 * REST API deployment with Flask or FastAPI
 * Automated model selection and optimization
 
