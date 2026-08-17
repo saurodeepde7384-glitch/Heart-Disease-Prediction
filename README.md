@@ -99,7 +99,7 @@ The training notebook uses Scikit-learn Pipelines to create a reusable preproces
 * Most Frequent Imputation
 * One-Hot Encoding
 
-Both pipelines are combined using **ColumnTransformer**, ensuring that each feature type receives the appropriate preprocessing automatically.
+Both pipelines are combined using **Column Transformer**, ensuring that each feature type receives the appropriate preprocessing automatically.
 
 ---
 
