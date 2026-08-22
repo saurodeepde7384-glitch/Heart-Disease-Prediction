@@ -1,6 +1,6 @@
 # Heart Attack Prediction Using Machine Learning
 
-A beginner-friendly Machine Learning project that predicts the likelihood of a heart attack using multiple classification algorithms. The project demonstrates an end-to-end machine learning workflow, including Exploratory Data Analysis (EDA), preprocessing with Scikit-learn Pipelines, model training, evaluation, comparison, and model serialization.
+A beginner-friendly Machine Learning project that predicts the likelihood of a heart attack using multiple classification algorithms. The project demonstrates an end-to-end Machine Learning workflow, including Exploratory Data Analysis (EDA), preprocessing with Scikit-learn Pipelines, model training, evaluation, comparison, and model serialization.
 
 An approachable machine learning project that uses **Logistic Regression** to forecast the risk of heart disease. A whole machine learning workflow, including data exploration, preprocessing, model training, evaluation, and serialisation, is shown in this project.
 
